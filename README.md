@@ -4,6 +4,42 @@ Chinese and English copywriting guidelines for better and more beautiful written
 
 ## Table of Contents
 
+## Punctuation
+### Avoid duplicate punctuation
+Correct examples:
+> 德国队竟然战胜了巴西队！
+
+> 她竟然对你说“喵”？！
+
+Incorrect examples:
+> 德国队竟然战胜了巴西队！！！！
+
+> 她竟然对你说“喵”？？！！？！
+
+### Use punctuation in fullwidth form for Chinese texts
+Correct examples:
+> 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
+
+> 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
+
+Incorrect examples:
+> 嗨! 你知道嘛? 今天前台的小妹跟我说"喵"了哎!
+
+> 嗨!你知道嘛?今天前台的小妹跟我说“喵“了哎!
+
+> 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
+
+> 核磁共振成像(NMRI）是什么原理都不知道?JFGI!
+
+### Use numbers in halfwidth form
+Correct example:
+> 这辆车只卖 3000 元。
+
+Incorrect example:
+> 这辆车只卖 ３０００ 元。
+
+**Exceptions:** Fullwidth numbers are acceptable for visual aligning in graphic design.
+
 ## Spacing
 ### Place one space between English and Chinese words
 Correct example:
@@ -30,7 +66,7 @@ Correct example:
 Incorrect example:
 > 我家的光纤入屋宽频有 10Gbps，SSD 一共有 20TB。
 
-**Exceptions**: There should be no spaces between numbers and degrees or percentages.
+**Exceptions:** There should be no spaces between numbers and degrees or percentages.
 
 Correct example:
 > 这个角的角度是 60°，比另外一个角大了 50%。
