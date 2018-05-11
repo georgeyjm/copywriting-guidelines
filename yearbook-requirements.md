@@ -38,7 +38,7 @@
 
 3. Single space after normal punctuations like periods, commas, exclamation marks, question marks, quotation marks, etc.. **Except** do not leave any spaces after the *last* punctuation mark in a paragraph
 
-4. Add a space between a numerical value and its unit (expect degrees and percentages), however, it is best to use
+4. Add a space between a numerical value and its unit (expect degrees and percentages), however, it is better to use the actual unit rather than the symbol for simple units
     > e.g. length is 30 m; capacity of 50 GB; used up 50% of memory; reached a temperature of 30℃
 
 
