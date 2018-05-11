@@ -1,5 +1,7 @@
 # Yearbook Copywriting Requirements
 
+*Version 1*
+
 ## English
 
 ### Punctuation
@@ -44,6 +46,8 @@
 
 ## 中文
 
+### 标点
+
 1. 使用全角标点（例如。，：；——……）而非半角标点（例如.,:;—…），但是在插入英文词组或特殊名词时，其内容内使用半角标点
     > 例：乔布斯曾经说过：“Stay hungry, stay foolish.”
 
@@ -51,14 +55,16 @@
 
 3. 不使用重复标点
     > 反例：非常棒！！！为什么？！？！
-    
-4. 在中文（包括全角标点）与英文之间不要加空格，且将中文之间的英文首字母大写
+
+### 空格
+   
+1. 在中文（包括全角标点）与英文之间不要加空格，且将中文之间的英文首字母大写
     > 例：名叫John Williams的同学；感谢所有的Prefects，
 
-5. 在中文（包括全角标点）与数字之间不要加空格
+2. 在中文（包括全角标点）与数字之间不要加空格
     > 例：在2018年；获得了500元
 
-6. 在全角标点后不加空格
+3. 在全角标点后不加空格
 
 
 ## General
@@ -66,7 +72,7 @@
 - Take note of the correct capitalizations, abbreviations and word separations, take special notice of the following two cases
 
   - YK Pao School
-    - **NOT**: YKPao School / YKPS / YK Pao school / Ykpao school etc.
+      - **NOT**: YKPao School / YKPS / YK Pao school / Ykpao school etc.
 
   - YK Pao students
-    - **NOT**: YKPao students / YKPS students / YKP students / Ykpao students etc.
+      - **NOT**: YKPao students / YKPS students / YKP students / Ykpao students etc.
